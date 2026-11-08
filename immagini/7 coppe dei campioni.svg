@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#d00000"/>
+  <rect x="0" y="0" width="50" height="300" fill="black"/>
+  <rect x="100" y="0" width="50" height="300" fill="black"/>
+  <rect x="250" y="0" width="50" height="300" fill="black"/>
+  <rect x="350" y="0" width="50" height="300" fill="black"/>
+  <path d="M140 50 L260 50 L250 140 Q200 190 150 140 Z" fill="gold" stroke="#8a6d00" stroke-width="4"/>
+  <path d="M140 65 Q95 70 115 115 Q125 135 152 140" fill="none" stroke="gold" stroke-width="12"/>
+  <path d="M260 65 Q305 70 285 115 Q275 135 248 140" fill="none" stroke="gold" stroke-width="12"/>
+  <rect x="188" y="165" width="24" height="45" fill="gold"/>
+  <rect x="155" y="210" width="90" height="25" fill="gold" stroke="#8a6d00" stroke-width="3"/>
+  <text x="200" y="280" font-family="Arial" font-size="22" font-weight="bold" fill="white" text-anchor="middle">7 COPPE DEI CAMPIONI</text>
+</svg>

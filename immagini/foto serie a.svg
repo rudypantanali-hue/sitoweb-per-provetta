@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#2e8b2e"/>
+  <line x1="200" y1="0" x2="200" y2="300" stroke="white" stroke-width="4"/>
+  <circle cx="200" cy="150" r="90" fill="none" stroke="white" stroke-width="4"/>
+  <circle cx="200" cy="150" r="55" fill="white" stroke="black" stroke-width="3"/>
+  <polygon points="200,128 221,143 213,168 187,168 179,143" fill="black"/>
+  <line x1="200" y1="128" x2="200" y2="96" stroke="black" stroke-width="3"/>
+  <line x1="221" y1="143" x2="252" y2="133" stroke="black" stroke-width="3"/>
+  <line x1="213" y1="168" x2="232" y2="194" stroke="black" stroke-width="3"/>
+  <line x1="187" y1="168" x2="168" y2="194" stroke="black" stroke-width="3"/>
+  <line x1="179" y1="143" x2="148" y2="133" stroke="black" stroke-width="3"/>
+  <text x="200" y="285" font-family="Arial" font-size="22" font-weight="bold" fill="white" text-anchor="middle">SERIE A 2026-2027</text>
+</svg>
